@@ -2,6 +2,7 @@ body{
     font-size: large;
 }
 p{
-    font-size: larger;
+    font-size: 25px;
     color: red;
+    background-color: yellow;
 }
